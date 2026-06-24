@@ -14,7 +14,7 @@
 * 🎯 **Dream Role:** AI/ML Engineer or Data Analyst
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daljeet-kaur-dhillon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daljeetkdhillon2gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daljeet-kaur-dhillon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daljeetkdhillon2@gmail.com) 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Dark" />
