@@ -2,7 +2,7 @@
 
 **A passionate BCA Student || AI & Machine Learning Enthusiast || Aspiring Data Analyst from India**
 
-📧 Email Me 👉 **(idaljeetdhillon@gmail.com)** for collaborations, internships, projects, or tech discussions. 😊
+📧 Email Me 👉 **(daljeetkdhillon2@gmail.com)** for collaborations, internships, projects, or tech discussions. 😊
 
 * 🎓 **Currently pursuing:** Bachelor of Computer Applications (BCA) from Guru Gobind Singh Indraprastha University
 * 🌱 **Currently learning:** Machine Learning, Deep Learning, Data Analytics, Python, and Data Visualization
